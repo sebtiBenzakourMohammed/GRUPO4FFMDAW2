@@ -1,0 +1,9 @@
+Valoraciones realizadas por Mohammed:
+Siguiendo los pasos establecidos Fernando ha conseguido a traves de la consola ssh a su cuenta cdmon hacer un pull del proyecto que se ubica en mi Git hub
+" https://github.com/sebtiBenzakourMohammed/GRUPO4FFMDAW2 " de manera exitosa podiendo desplegar la applicacion web con la conexion a la base datos asi 
+como pudiendo tambien insertar datos viendo al mismo tiempo que se registran en la base de datos a traves de phpmyadmin
+Siguiendo los pasos hecho por Felipe veo que el proceso se realizo de manera correcta descargando el proyecto de mi git hub , haciendo modificaciones del fichero de configuracion 
+para la correcta conexion a la base de datos despues añadiendo los fichero que le corresponde y despues crear su usuario asi como email para identificarse y saber quien
+realizo las modificaciones y volver a subir todo el proyecto completo para que Fernando pueda hacer el despliegue a cdmon de manera segura por ssh.
+todo bien hecho.
+gracias.

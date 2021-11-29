@@ -1,0 +1,29 @@
+-Primero cree la base de datos en cdmon y le di permisos al usuario sobre esa base de datos.
+
+-Segundo realice la conexión desde git bash al git hub de Mohammed con:
+git remote add origin https://github.com/sebtiBenzakourMohammed/GRUPO4FFMDAW2
+-Realice git remote -v para ver que la conexión se habia realizado correctamente.
+origin https://github.com/sebtiBenzakourMohammed/GRUPO4FFMDAW2 (fetch)
+origin https://github.com/sebtiBenzakourMohammed/GRUPO4FFMDAW2 (push)
+-Cambie de la rama master a la rama alimento con git checkout -b alimento.
+-Descargue en mi carpeta que estaba vacia lo que tenia Mohammed en el git hub con:
+git pull origin alimento.
+-Añadi model.php con el siguiente comando: git add app/Model.php
+-Realice un commit 
+-Por ultimo subi mi carpeta al git hub de Mohammed con el siguiente comando:
+git push origin alimento
+
+-Lo tercero que hice fue entrar en mi cdmon a traves de ssh con:
+ssh ferna0d19b7@ssh.fernando.es.mialias.net
+y contraseña Github1*
+-Despues me he dirigido a la carpeta web y he creado una carpeta llamada proyectoAlimento2021
+-Entre en la carpeta hice: git init.
+-Hice la conexión al git hub de Mohammed con:
+git remote add origin https://github.com/sebtiBenzakourMohammed/GRUPO4FFMDAW2
+-Realice git remote -v para ver que la conexión se habia realizado correctamente.
+origin https://github.com/sebtiBenzakourMohammed/GRUPO4FFMDAW2 (fetch)
+origin https://github.com/sebtiBenzakourMohammed/GRUPO4FFMDAW2 (push)
+-Despues quite la seguridad de ssh con: git config --global http.sslVerify false
+-Cambie de la rama master a la rama alimento con git checkout -b alimento.
+-Finalmente para pasar los archivos y carpetas del git hub de Mohammed a mi cdmon realice el siguiente comando:
+git pull origin alimento.

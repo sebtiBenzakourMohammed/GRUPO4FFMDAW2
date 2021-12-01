@@ -1,0 +1,28 @@
+--Integrante 3--
+
+Primero he descargado los archivos Config.php y Controller.php desde el 
+comprimido subido en la moodle.
+
+He creado una carpeta vacía y la he inicializado.
+
+Me conecto con git remote add origin al repositorio del integrante 1.
+
+Con git remote -v he comprobado la conexión con el integrante 1.
+
+Con git pull origin he creado una rama donde irá todo lo que vaya a 
+modificar.
+
+Del comprimido descargado desde la moodle copié a la carpeta vacía que he inicializado previamente, los ficheros Config.php, Controller.php e index.php
+en sus carpetas correspondientes. 
+
+A continuación creo la rama alimento para que sea la misma que la que está en el github del integrante 1.
+
+A continuación he realizado 1 git add para cada fichero  hacia la rama alimento (los ficheros que he agregado a la carpeta vacía manualmente).
+
+Creo un usuario y un correo electrónico con git config --global user.email y config --global user.name
+
+He realizado un git commit -m y un identificador para saber lo que he realizado (Es como un registro)
+
+git log para comprobar los registros 
+
+Finalmente he realizado un git push origin alimento para subir los cambios al repositorio central.

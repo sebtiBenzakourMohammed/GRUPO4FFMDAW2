@@ -7,3 +7,10 @@ para la correcta conexion a la base de datos despues añadiendo los fichero que 
 realizo las modificaciones y volver a subir todo el proyecto completo para que Fernando pueda hacer el despliegue a cdmon de manera segura por ssh.
 todo bien hecho.
 gracias.
+
+Valoraciones realizadas por Felipe:
+Mi parte(integrante 3) me ha parecido interesante, aunque un poco corta comparado con el de los demás integrantes,
+he tenido algún que otro problema pero lo hemos solucionado entre los 3.
+
+Valoraciones realizadas por Fernando:
+Me ha parecido un proyecto muy interesante y entretenido en el que a parte de aprender los comando de git hub hemos estado trabajando en equipo algo que haremos cuando estemos en la empresa
